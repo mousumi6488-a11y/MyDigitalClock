@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Clock Live</string>
+    <string name="widget_small_name">Smart Clock Compact (2×1)</string>
+    <string name="widget_small_desc">Compact digital clock with date and local timezone.</string>
+    <string name="widget_medium_name">Smart Clock &amp; FX (4×2)</string>
+    <string name="widget_medium_desc">Digital clock, date, and top selected currency exchange rates.</string>
+    <string name="widget_large_name">Smart Clock Studio (4×3)</string>
+    <string name="widget_large_desc">Full digital clock with live currency board and quick refresh.</string>
+</resources>
